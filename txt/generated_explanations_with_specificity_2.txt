@@ -1,0 +1,108 @@
+
+
+·····Explanation for: Event_28
+'Event_28' is a type of 'Collaboration' from 300.0 to 340.0 and executes plan 'Place Tokens With Odd Numbers' and has participant 'Robot and Human' and has location 'pm Lab' and is classified by 'Collaboration Class' and has quality 'Current Risk Of Collision'. 
+
+
+
+
+·····Explanation for: Event_30
+'Event_30' is a type of 'Collaboration' from 400.0 to 440.0 and executes plan 'Place Tokens In Ascending Order' and has participant 'Robot and Human' and has location 'pm Lab' and is classified by 'Collaboration Class' and has quality 'Current Risk Of Collision'. 
+
+
+
+
+·····Explanation for: Event_33
+'Event_33' is a type of 'Collaboration' from 500.0 to 542.0 and executes plan 'Place Tokens In Columns By Color' and has participant 'Robot and Human' and has location 'pm Lab' and is classified by 'Collaboration Class' and has quality 'Current Risk Of Collision'. 
+
+
+
+
+·····Explanation for: Event_38
+'Event_38' is a type of 'Collaboration' from 600.0 to 649.0 and executes plan 'Place Tokens In Columns By Color' and has participant 'Robot and Human' and has location 'pm Lab'. 
+
+
+
+
+·····Explanation for: Event_42
+'Event_42' is a type of 'Collaboration' from 650.0 to 699.0 and executes plan 'Place Tokens In Descending Order' and has participant 'Robot and Human' and has location 'pm Lab'. 
+
+
+
+
+·····Explanation for: Event_48
+'Event_48' is a type of 'Collaboration' from 700.0 to 749.0 and executes plan 'Place Tokens In Quadrants By Color' and has participant 'Robot and Human' and has location 'pm Lab'. 
+
+
+
+
+·····Explanation for: Event_50
+'Event_50' is a type of 'Collaboration' from 750.0 to 799.0 and executes plan 'Place Tokens In Quadrants By Color' and has participant 'Robot and Human' and has location 'pm Lab'. 
+
+
+
+
+·····Explanation for: Event_58
+'Event_58' is a type of 'Collaboration' from 800.0 to 849.0 and executes plan 'Place Tokens In Descending Order' and has participant 'Robot and Human' and has location 'pm Lab'. 
+
+
+
+
+·····Explanation for: Event_62
+'Event_62' is a type of 'Collaboration' from 850.0 to 899.0 and executes plan 'Place Tokens In Descending Order' and has participant 'Robot and Human' and has location 'pm Lab'. 
+
+
+
+
+·····Explanation for: Event_9
+'Event_9' (not) is a type of 'Collaboration' and is a type of 'Event' from 1.0 to 41.0 and executes plan 'Place Tokens In Columns By Color' and has participant 'Robot' and (not) has participant 'Human'. 
+
+
+
+
+·····Explanation for: Event_15
+'Event_15' (not) is a type of 'Collaboration' and is a type of 'Event' from 100.0 to 142.0 and executes plan 'Place Tokens In Columns By Color' and has participant 'Robot' and (not) has participant 'Human'. 
+
+
+
+
+·····Explanation for: Event_27
+'Event_27' (not) is a type of 'Collaboration' and is a type of 'Event' from 200.0 to 240.0 and executes plan 'Place Tokens In Columns By Color and Place Tokens In Ascending Order' and has participant 'Robot and Human'. 
+
+
+
+
+·····Explanation for: Event_39
+'Event_39' is a type of 'Plan Adaptation' from 600.0 to 613.0 and has participant 'Robot' and has part 'Execution Of Place Token On Compartment19' from 600.0 to 607.0 and has part 'Execution Of Stop Until Human Command' from 607.5 to 613.0. 
+
+
+
+
+·····Explanation for: Event_43
+'Event_43' is a type of 'Plan Adaptation' from 650.0 to 665.0 and has participant 'Robot' and has part 'Execution Of Place Token On Compartment20' from 650.0 to 658.0 and has part 'Execution Of Place Token On Trash' from 658.5 to 665.0. 
+
+
+
+
+·····Explanation for: Event_49
+'Event_49' is a type of 'Plan Adaptation' from 700.0 to 715.0 and has participant 'Robot' and has part 'Execution Of Place Token On Compartment19' from 700.0 to 707.0 and has part 'Execution Of Place Token On Compartment15' from 707.5 to 715.0. 
+
+
+
+
+·····Explanation for: Event_51
+'Event_51' is a type of 'Plan Adaptation' from 750.0 to 763.5 and has participant 'Robot' and has part 'Execution Of Place Token On Compartment19' from 750.0 to 757.0 and has part 'Execution Of Place Token On Auxiliar Pile' from 757.5 to 763.5. 
+
+
+
+
+·····Explanation for: Event_59
+'Event_59' is a type of 'Plan Adaptation' from 800.0 to 820.0 and has participant 'Robot' and has part 'Execution Of Place Token On Compartment20' from 800.0 to 812.0 and has part 'Execution Of Place Token On Trash' from 812.5 to 820.0. 
+
+
+
+
+·····Explanation for: Event_63
+'Event_63' is a type of 'Plan Adaptation' from 850.0 to 868.0 and has participant 'Robot' and has part 'Execution Of Place Token On Compartment18' from 850.0 to 858.0 and has part 'Execution Of Place Token On Compartment19' from 858.5 to 868.0. 
+
+

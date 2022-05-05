@@ -1,0 +1,320 @@
+
+
+·····Explanation for: Event_28
+'Event_28' is a type of 'Collaboration' from 300.0 to 340.0 and executes plan 'Place Tokens With Odd Numbers' and has participant 'Robot and Human' and has location 'pm Lab' and is classified by 'Collaboration Class' and has quality 'Current Risk Of Collision'. 
+
+'Place Tokens With Odd Numbers' is a type of 'Plan' from 1.0 to 1000.0 and has component 'Full Board With Tokens With Odd Numbers' and is plan of 'Robot and Human'. 
+
+'Current Risk Of Collision' is a type of 'Collaboration Risk' and has data value 'Low Risk' from 300.0 to 312.0 and has data value 'Medium Risk' from 312.0 to 314.0 and has data value 'Low Risk' from 314.0 to 340.0. 
+
+'Robot' is a type of 'Physical Agent' from 1.0 to 1000.0 and has goal 'Full Board With Tokens With Odd Numbers'. 
+
+'Human' is a type of 'Physical Agent' from 1.0 to 1000.0 and has goal 'Full Board With Tokens With Odd Numbers'. 
+
+'pm Lab' is a type of 'Collaboration Place' from 1.0 to 1000.0. 
+
+'Collaboration Class' is a type of 'Indirectly Physical Collaboration'. 
+
+
+
+
+·····Explanation for: Event_30
+'Event_30' is a type of 'Collaboration' from 400.0 to 440.0 and executes plan 'Place Tokens In Ascending Order' and has participant 'Robot and Human' and has location 'pm Lab' and is classified by 'Collaboration Class' and has quality 'Current Risk Of Collision'. 
+
+'Place Tokens In Ascending Order' is a type of 'Plan' from 1.0 to 1000.0 and has component 'Full Board With Tokens In Ascending Order' and is plan of 'Robot and Human'. 
+
+'Current Risk Of Collision' is a type of 'Collaboration Risk' and has data value 'Low Risk' from 400.0 to 432.0 and has data value 'Medium Risk' from 432.0 to 436.0 and has data value 'Low Risk' from 436.0 to 440.0. 
+
+'Robot' is a type of 'Physical Agent' from 1.0 to 1000.0 and has goal 'Full Board With Tokens In Ascending Order'. 
+
+'Human' is a type of 'Physical Agent' from 1.0 to 1000.0 and has goal 'Full Board With Tokens In Ascending Order'. 
+
+'pm Lab' is a type of 'Collaboration Place' from 1.0 to 1000.0. 
+
+'Collaboration Class' is a type of 'Indirectly Physical Collaboration'. 
+
+
+
+
+·····Explanation for: Event_33
+'Event_33' is a type of 'Collaboration' from 500.0 to 542.0 and executes plan 'Place Tokens In Columns By Color' and has participant 'Robot and Human' and has location 'pm Lab' and is classified by 'Collaboration Class' and has quality 'Current Risk Of Collision'. 
+
+'Place Tokens In Columns By Color' is a type of 'Plan' from 1.0 to 1000.0 and has component 'Full Board With Tokens In Columns By Color' and is plan of 'Robot and Human'. 
+
+'Current Risk Of Collision' is a type of 'Collaboration Risk' and has data value 'Low Risk' from 500.0 to 508.0 and has data value 'Medium Risk' from 508.0 to 510.0 and has data value 'Low Risk' from 510.0 to 542.0. 
+
+'Robot' is a type of 'Physical Agent' from 1.0 to 1000.0 and has goal 'Full Board With Tokens In Columns By Color'. 
+
+'Human' is a type of 'Physical Agent' from 1.0 to 1000.0 and has goal 'Full Board With Tokens In Columns By Color'. 
+
+'pm Lab' is a type of 'Collaboration Place' from 1.0 to 1000.0. 
+
+'Collaboration Class' is a type of 'Indirectly Physical Collaboration'. 
+
+
+
+
+·····Explanation for: Event_38
+'Event_38' is a type of 'Collaboration' from 600.0 to 649.0 and executes plan 'Place Tokens In Columns By Color' and has participant 'Robot and Human' and has location 'pm Lab'. 
+
+'Place Tokens In Columns By Color' is a type of 'Plan' from 1.0 to 1000.0 and has component 'Full Board With Tokens In Columns By Color' and is plan of 'Robot and Human'. 
+
+'Robot' is a type of 'Physical Agent' from 1.0 to 1000.0 and has goal 'Full Board With Tokens In Columns By Color'. 
+
+'Event_39' has participant 'Robot' from 600.0 to 613.0. 
+
+'Execution Of Place Token On Compartment19' has participant 'Robot' from 600.0 to 607.0. 
+
+'Execution Of Stop Until Human Command' has participant 'Robot' from 607.5 to 613.0. 
+
+'Place Token On Compartment19' is plan of 'Robot' from 600.0 to 607.0. 
+
+'Stop Until Human Command' is plan of 'Robot' from 607.5 to 613.0. 
+
+'Human' is a type of 'Physical Agent' from 1.0 to 1000.0. 
+
+'pm Lab' is a type of 'Collaboration Place' from 1.0 to 1000.0. 
+
+
+
+
+·····Explanation for: Event_42
+'Event_42' is a type of 'Collaboration' from 650.0 to 699.0 and executes plan 'Place Tokens In Descending Order' and has participant 'Robot and Human' and has location 'pm Lab'. 
+
+'Place Tokens In Descending Order' is a type of 'Plan' from 1.0 to 1000.0 and has component 'Full Board With Tokens In Descending Order' and is plan of 'Robot and Human'. 
+
+'Robot' is a type of 'Physical Agent' from 1.0 to 1000.0 and has goal 'Full Board With Tokens In Descending Order'. 
+
+'Event_43' has participant 'Robot' from 650.0 to 665.0. 
+
+'Execution Of Place Token On Compartment20' has participant 'Robot' from 650.0 to 658.0. 
+
+'Execution Of Place Token On Trash' has participant 'Robot' from 658.5 to 665.0. 
+
+'Place Token On Compartment20' is plan of 'Robot' from 650.0 to 658.0. 
+
+'Place Token On Trash' is plan of 'Robot' from 658.5 to 665.0. 
+
+'Human' is a type of 'Physical Agent' from 1.0 to 1000.0. 
+
+'pm Lab' is a type of 'Collaboration Place' from 1.0 to 1000.0. 
+
+
+
+
+·····Explanation for: Event_48
+'Event_48' is a type of 'Collaboration' from 700.0 to 749.0 and executes plan 'Place Tokens In Quadrants By Color' and has participant 'Robot and Human' and has location 'pm Lab'. 
+
+'Place Tokens In Quadrants By Color' is a type of 'Plan' from 1.0 to 1000.0 and has component 'Full Board With Tokens In Quadrants By Color' and is plan of 'Robot and Human'. 
+
+'Robot' is a type of 'Physical Agent' from 1.0 to 1000.0 and has goal 'Full Board With Tokens In Quadrants By Color'. 
+
+'Event_49' has participant 'Robot' from 700.0 to 715.0. 
+
+'Execution Of Place Token On Compartment19' has participant 'Robot' from 700.0 to 707.0. 
+
+'Execution Of Place Token On Compartment15' has participant 'Robot' from 707.5 to 715.0. 
+
+'Place Token On Compartment19' is plan of 'Robot' from 700.0 to 707.0. 
+
+'Place Token On Compartment15' is plan of 'Robot' from 707.5 to 715.0. 
+
+'Human' is a type of 'Physical Agent' from 1.0 to 1000.0. 
+
+'pm Lab' is a type of 'Collaboration Place' from 1.0 to 1000.0. 
+
+
+
+
+·····Explanation for: Event_50
+'Event_50' is a type of 'Collaboration' from 750.0 to 799.0 and executes plan 'Place Tokens In Quadrants By Color' and has participant 'Robot and Human' and has location 'pm Lab'. 
+
+'Place Tokens In Quadrants By Color' is a type of 'Plan' from 1.0 to 1000.0 and has component 'Full Board With Tokens In Quadrants By Color' and is plan of 'Robot and Human'. 
+
+'Robot' is a type of 'Physical Agent' from 1.0 to 1000.0 and has goal 'Full Board With Tokens In Quadrants By Color'. 
+
+'Event_51' has participant 'Robot' from 750.0 to 763.5. 
+
+'Execution Of Place Token On Compartment19' has participant 'Robot' from 750.0 to 757.0. 
+
+'Execution Of Place Token On Auxiliar Pile' has participant 'Robot' from 757.5 to 763.5. 
+
+'Place Token On Compartment19' is plan of 'Robot' from 750.0 to 757.0. 
+
+'Place Token On Auxiliar Pile' is plan of 'Robot' from 757.5 to 763.5. 
+
+'Human' is a type of 'Physical Agent' from 1.0 to 1000.0. 
+
+'pm Lab' is a type of 'Collaboration Place' from 1.0 to 1000.0. 
+
+
+
+
+·····Explanation for: Event_58
+'Event_58' is a type of 'Collaboration' from 800.0 to 849.0 and executes plan 'Place Tokens In Descending Order' and has participant 'Robot and Human' and has location 'pm Lab'. 
+
+'Place Tokens In Descending Order' is a type of 'Plan' from 1.0 to 1000.0 and has component 'Full Board With Tokens In Descending Order' and is plan of 'Robot and Human'. 
+
+'Robot' is a type of 'Physical Agent' from 1.0 to 1000.0 and has goal 'Full Board With Tokens In Descending Order'. 
+
+'Event_59' has participant 'Robot' from 800.0 to 820.0. 
+
+'Execution Of Place Token On Compartment20' has participant 'Robot' from 800.0 to 812.0. 
+
+'Execution Of Place Token On Trash' has participant 'Robot' from 812.5 to 820.0. 
+
+'Place Token On Compartment20' is plan of 'Robot' from 800.0 to 812.0. 
+
+'Place Token On Trash' is plan of 'Robot' from 812.5 to 820.0. 
+
+'Human' is a type of 'Physical Agent' from 1.0 to 1000.0. 
+
+'pm Lab' is a type of 'Collaboration Place' from 1.0 to 1000.0. 
+
+
+
+
+·····Explanation for: Event_62
+'Event_62' is a type of 'Collaboration' from 850.0 to 899.0 and executes plan 'Place Tokens In Descending Order' and has participant 'Robot and Human' and has location 'pm Lab'. 
+
+'Place Tokens In Descending Order' is a type of 'Plan' from 1.0 to 1000.0 and has component 'Full Board With Tokens In Descending Order' and is plan of 'Robot and Human'. 
+
+'Robot' is a type of 'Physical Agent' from 1.0 to 1000.0 and has goal 'Full Board With Tokens In Descending Order'. 
+
+'Event_63' has participant 'Robot' from 850.0 to 868.0. 
+
+'Execution Of Place Token On Compartment18' has participant 'Robot' from 850.0 to 858.0. 
+
+'Execution Of Place Token On Compartment19' has participant 'Robot' from 858.5 to 868.0. 
+
+'Place Token On Compartment18' is plan of 'Robot' from 850.0 to 858.0. 
+
+'Place Token On Compartment19' is plan of 'Robot' from 858.5 to 868.0. 
+
+'Human' is a type of 'Physical Agent' from 1.0 to 1000.0. 
+
+'pm Lab' is a type of 'Collaboration Place' from 1.0 to 1000.0. 
+
+
+
+
+·····Explanation for: Event_9
+'Event_9' (not) is a type of 'Collaboration' and is a type of 'Event' from 1.0 to 41.0 and executes plan 'Place Tokens In Columns By Color' and has participant 'Robot' and (not) has participant 'Human'. 
+
+'Place Tokens In Columns By Color' is a type of 'Plan' from 1.0 to 1000.0 and has component 'Full Board With Tokens In Columns By Color' and is plan of 'Robot and Human'. 
+
+'Robot' is a type of 'Physical Agent' from 1.0 to 1000.0 and has goal 'Full Board With Tokens In Columns By Color'. 
+
+'Human' is a type of 'Physical Agent' from 1.0 to 1000.0 and has goal 'Full Board With Tokens In Columns By Color'. 
+
+
+
+
+·····Explanation for: Event_15
+'Event_15' (not) is a type of 'Collaboration' and is a type of 'Event' from 100.0 to 142.0 and executes plan 'Place Tokens In Columns By Color' and has participant 'Robot' and (not) has participant 'Human'. 
+
+'Place Tokens In Columns By Color' is a type of 'Plan' from 1.0 to 1000.0 and has component 'Full Board With Tokens In Columns By Color' and is plan of 'Robot and Human'. 
+
+'Robot' is a type of 'Physical Agent' from 1.0 to 1000.0 and has goal 'Full Board With Tokens In Columns By Color'. 
+
+'Human' is a type of 'Physical Agent' from 1.0 to 1000.0 and has goal 'Full Board With Tokens In Columns By Color'. 
+
+
+
+
+·····Explanation for: Event_27
+'Event_27' (not) is a type of 'Collaboration' and is a type of 'Event' from 200.0 to 240.0 and executes plan 'Place Tokens In Columns By Color and Place Tokens In Ascending Order' and has participant 'Robot and Human'. 
+
+'Place Tokens In Ascending Order' is a type of 'Plan' from 1.0 to 1000.0 and has component 'Full Board With Tokens In Ascending Order' and is plan of 'Robot' and (not) is plan of 'Human'. 
+
+'Place Tokens In Columns By Color' is a type of 'Plan' from 1.0 to 1000.0 and has component 'Full Board With Tokens In Columns By Color' and is plan of 'Human'. 
+
+'Human' is a type of 'Physical Agent' from 1.0 to 1000.0 and has goal 'Full Board With Tokens In Columns By Color' and (not) has goal 'Full Board With Tokens In Ascending Order'. 
+
+'Robot' is a type of 'Physical Agent' from 1.0 to 1000.0 and has goal 'Full Board With Tokens In Ascending Order'. 
+
+
+
+
+·····Explanation for: Event_39
+'Event_39' is a type of 'Plan Adaptation' from 600.0 to 613.0 and has participant 'Robot' and has part 'Execution Of Place Token On Compartment19' from 600.0 to 607.0 and has part 'Execution Of Stop Until Human Command' from 607.5 to 613.0. 
+
+'Robot' is a type of 'Physical Agent' from 1.0 to 1000.0 and has plan 'Place Token On Compartment19' from 600.0 to 607.0 and has plan 'Stop Until Human Command' from 607.5 to 613.0 and has plan 'Place Tokens In Columns By Color' from 600.0 to 649.0 and has goal 'Full Board With Tokens In Columns By Color' from 600.0 to 649.0. 
+
+'Execution Of Stop Until Human Command' is a type of 'Event' from 607.5 to 613.0 and has participant 'Robot' from 607.5 to 613.0 and is postcondition of 'High Collision Risk' from 607.5 to 613.0 and executes plan 'Stop Until Human Command' from 607.5 to 613.0 and (not) executes plan 'Place Token On Compartment19' from 607.5 to 613.0. 
+
+'Execution Of Place Token On Compartment19' is a type of 'Event' from 600.0 to 607.0 and has participant 'Robot' from 600.0 to 607.0 and is precondition of 'High Collision Risk' from 607.0 to 613.0 and executes plan 'Place Token On Compartment19' from 600.0 to 607.0. 
+
+'Event_38' has participant 'Robot' from 600.0 to 649.0. 
+
+
+
+
+·····Explanation for: Event_43
+'Event_43' is a type of 'Plan Adaptation' from 650.0 to 665.0 and has participant 'Robot' and has part 'Execution Of Place Token On Compartment20' from 650.0 to 658.0 and has part 'Execution Of Place Token On Trash' from 658.5 to 665.0. 
+
+'Robot' is a type of 'Physical Agent' from 1.0 to 1000.0 and has plan 'Place Token On Compartment20' from 650.0 to 658.0 and has plan 'Place Token On Trash' from 658.5 to 665.0 and has plan 'Place Tokens In Descending Order' from 650.0 to 699.0 and has goal 'Full Board With Tokens In Descending Order' from 650.0 to 699.0. 
+
+'Execution Of Place Token On Trash' is a type of 'Event' from 658.5 to 665.0 and has participant 'Robot' from 658.5 to 665.0 and is postcondition of 'Token Number Is Too Small' from 658.5 to 665.0 and executes plan 'Place Token On Trash' from 658.5 to 665.0 and (not) executes plan 'Place Token On Compartment20' from 658.5 to 665.0. 
+
+'Execution Of Place Token On Compartment20' is a type of 'Event' from 650.0 to 658.0 and has participant 'Robot' from 650.0 to 658.0 and is precondition of 'Token Number Is Too Small' from 658.0 to 665.0 and executes plan 'Place Token On Compartment20' from 650.0 to 658.0. 
+
+'Event_42' has participant 'Robot' from 650.0 to 699.0. 
+
+
+
+
+·····Explanation for: Event_49
+'Event_49' is a type of 'Plan Adaptation' from 700.0 to 715.0 and has participant 'Robot' and has part 'Execution Of Place Token On Compartment19' from 700.0 to 707.0 and has part 'Execution Of Place Token On Compartment15' from 707.5 to 715.0. 
+
+'Robot' is a type of 'Physical Agent' from 1.0 to 1000.0 and has plan 'Place Token On Compartment19' from 700.0 to 707.0 and has plan 'Place Token On Compartment15' from 707.5 to 715.0 and has plan 'Place Tokens In Quadrants By Color' from 700.0 to 749.0 and has goal 'Full Board With Tokens In Quadrants By Color' from 700.0 to 749.0. 
+
+'Execution Of Place Token On Compartment15' is a type of 'Event' from 707.5 to 715.0 and has participant 'Robot' from 707.5 to 715.0 and is postcondition of 'Target Compartment Is Full' from 707.5 to 715.0 and executes plan 'Place Token On Compartment15' from 707.5 to 715.0 and (not) executes plan 'Place Token On Compartment19' from 707.5 to 715.0. 
+
+'Execution Of Place Token On Compartment19' is a type of 'Event' from 700.0 to 707.0 and has participant 'Robot' from 700.0 to 707.0 and is precondition of 'Target Compartment Is Full' from 707.0 to 715.0 and executes plan 'Place Token On Compartment19' from 700.0 to 707.0. 
+
+'Event_48' has participant 'Robot' from 700.0 to 749.0. 
+
+
+
+
+·····Explanation for: Event_51
+'Event_51' is a type of 'Plan Adaptation' from 750.0 to 763.5 and has participant 'Robot' and has part 'Execution Of Place Token On Compartment19' from 750.0 to 757.0 and has part 'Execution Of Place Token On Auxiliar Pile' from 757.5 to 763.5. 
+
+'Robot' is a type of 'Physical Agent' from 1.0 to 1000.0 and has plan 'Place Token On Compartment19' from 750.0 to 757.0 and has plan 'Place Token On Auxiliar Pile' from 757.5 to 763.5 and has plan 'Place Tokens In Quadrants By Color' from 750.0 to 799.0 and has goal 'Full Board With Tokens In Quadrants By Color' from 750.0 to 799.0. 
+
+'Execution Of Place Token On Auxiliar Pile' is a type of 'Event' from 757.5 to 763.5 and has participant 'Robot' from 757.5 to 763.5 and is postcondition of 'Target Color Is Full With Wrong Token' from 757.5 to 763.5 and executes plan 'Place Token On Auxiliar Pile' from 757.5 to 763.5 and (not) executes plan 'Place Token On Compartment19' from 757.5 to 763.5. 
+
+'Execution Of Place Token On Compartment19' is a type of 'Event' from 750.0 to 757.0 and has participant 'Robot' from 750.0 to 757.0 and is precondition of 'Target Color Is Full With Wrong Token' from 757.0 to 763.5 and executes plan 'Place Token On Compartment19' from 750.0 to 757.0. 
+
+'Event_50' has participant 'Robot' from 750.0 to 799.0. 
+
+
+
+
+·····Explanation for: Event_59
+'Event_59' is a type of 'Plan Adaptation' from 800.0 to 820.0 and has participant 'Robot' and has part 'Execution Of Place Token On Compartment20' from 800.0 to 812.0 and has part 'Execution Of Place Token On Trash' from 812.5 to 820.0. 
+
+'Robot' is a type of 'Physical Agent' from 1.0 to 1000.0 and has plan 'Place Token On Compartment20' from 800.0 to 812.0 and has plan 'Place Token On Trash' from 812.5 to 820.0 and has plan 'Place Tokens In Descending Order' from 800.0 to 849.0 and has goal 'Full Board With Tokens In Descending Order' from 800.0 to 849.0. 
+
+'Execution Of Place Token On Trash' is a type of 'Event' from 812.5 to 820.0 and has participant 'Robot' from 812.5 to 820.0 and is postcondition of 'Token Number Is Too High' from 812.5 to 820.0 and executes plan 'Place Token On Trash' from 812.5 to 820.0 and (not) executes plan 'Place Token On Compartment20' from 812.5 to 820.0. 
+
+'Execution Of Place Token On Compartment20' is a type of 'Event' from 800.0 to 812.0 and has participant 'Robot' from 800.0 to 812.0 and is precondition of 'Token Number Is Too High' from 812.0 to 820.0 and executes plan 'Place Token On Compartment20' from 800.0 to 812.0. 
+
+'Event_58' has participant 'Robot' from 800.0 to 849.0. 
+
+
+
+
+·····Explanation for: Event_63
+'Event_63' is a type of 'Plan Adaptation' from 850.0 to 868.0 and has participant 'Robot' and has part 'Execution Of Place Token On Compartment18' from 850.0 to 858.0 and has part 'Execution Of Place Token On Compartment19' from 858.5 to 868.0. 
+
+'Robot' is a type of 'Physical Agent' from 1.0 to 1000.0 and has plan 'Place Token On Compartment18' from 850.0 to 858.0 and has plan 'Place Token On Compartment19' from 858.5 to 868.0 and has plan 'Place Tokens In Descending Order' from 850.0 to 899.0 and has goal 'Full Board With Tokens In Descending Order' from 850.0 to 899.0. 
+
+'Execution Of Place Token On Compartment19' is a type of 'Event' from 858.5 to 868.0 and has participant 'Robot' from 858.5 to 868.0 and is postcondition of 'Target Compartment Is Full' from 858.5 to 868.0 and executes plan 'Place Token On Compartment19' from 858.5 to 868.0 and (not) executes plan 'Place Token On Compartment18' from 858.5 to 868.0. 
+
+'Execution Of Place Token On Compartment18' is a type of 'Event' from 850.0 to 858.0 and has participant 'Robot' from 850.0 to 858.0 and is precondition of 'Target Compartment Is Full' from 858.0 to 868.0 and executes plan 'Place Token On Compartment18' from 850.0 to 858.0. 
+
+'Event_62' has participant 'Robot' from 850.0 to 899.0. 
+
+
